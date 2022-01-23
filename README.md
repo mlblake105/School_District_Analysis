@@ -29,21 +29,23 @@ A data scientist with a city school district has assigned the following tasks to
 - How is the school summary affected?
   - Before replacing scores for Thomas High School
  
-  ![Thomas Before](https://user-images.githubusercontent.com/96347933/150663255-3eb6e985-7d69-4fd2-bce0-538ad2e1bf01.PNG)
+![Thomas Before](https://user-images.githubusercontent.com/96347933/150663366-5504326d-0fd5-4a7d-9afb-39cda1204615.PNG)
 
     - Average Math Score = 83.4
     - Average Reading Score = 83.8
     - % Passing Math = 93.3
     - % Passing Reading = 97.3
     - % Overall Passing = 90.9
+   
    - After replacing scores for Thomas High School   
-   - 
-  ![Thomas After](https://user-images.githubusercontent.com/96347933/150663262-c451359d-c8e7-4143-b271-3de74755d189.PNG)
+   
+![Thomas After](https://user-images.githubusercontent.com/96347933/150663377-12d0880b-d9f3-4bbb-a2b8-7c77047defc4.PNG)
 
     - Average Math Score = 83.4
     - Average Reading Score = 83.9
     - % Passing Math = 66.9
     - % Passing Reading = 69.7
     - % Overall Passing = 65.1  
+    
 - How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
-- 
+
