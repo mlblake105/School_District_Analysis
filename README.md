@@ -26,6 +26,7 @@ A data scientist with a city school district has assigned the following tasks to
     - % Passing Math = 74.8
     - % Passing Reading = 85.7
     - % Overall Passing = 64.9  
+   
 - How is the school summary affected?
   - Before replacing scores for Thomas High School
  
@@ -48,4 +49,7 @@ A data scientist with a city school district has assigned the following tasks to
     - % Overall Passing = 65.1  
     
 - How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
+    - Replacing the scores has a significant impact on the % of overall passing, dropping from 90.9% to 65.1%.
+
+
 
