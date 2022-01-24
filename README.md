@@ -28,26 +28,24 @@ A data scientist with a city school district has assigned the following tasks to
     - % Overall Passing = 64.9  
    
 - How is the school summary affected?
-
   - Before replacing scores for Thomas High School
- 
-![Thomas Before](https://user-images.githubusercontent.com/96347933/150663366-5504326d-0fd5-4a7d-9afb-39cda1204615.PNG)
-
     - Average Math Score = 83.4
     - Average Reading Score = 83.8
     - % Passing Math = 93.3
     - % Passing Reading = 97.3
     - % Overall Passing = 90.9
-   
   - After replacing scores for Thomas High School   
-   
-![Thomas After](https://user-images.githubusercontent.com/96347933/150663377-12d0880b-d9f3-4bbb-a2b8-7c77047defc4.PNG)
-
     - Average Math Score = 83.4
     - Average Reading Score = 83.9
     - % Passing Math = 66.9
     - % Passing Reading = 69.7
     - % Overall Passing = 65.1  
+
+![Thomas Before](https://user-images.githubusercontent.com/96347933/150663366-5504326d-0fd5-4a7d-9afb-39cda1204615.PNG)
+
+![Thomas After](https://user-images.githubusercontent.com/96347933/150663377-12d0880b-d9f3-4bbb-a2b8-7c77047defc4.PNG)
+
+    
     
 - How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
     - Replacing the scores has a significant impact on the % of overall passing, dropping from 90.9% to 65.1%.
