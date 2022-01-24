@@ -28,6 +28,7 @@ A data scientist with a city school district has assigned the following tasks to
     - % Overall Passing = 64.9  
    
 - How is the school summary affected?
+
   - Before replacing scores for Thomas High School
  
 ![Thomas Before](https://user-images.githubusercontent.com/96347933/150663366-5504326d-0fd5-4a7d-9afb-39cda1204615.PNG)
@@ -38,7 +39,7 @@ A data scientist with a city school district has assigned the following tasks to
     - % Passing Reading = 97.3
     - % Overall Passing = 90.9
    
-   - After replacing scores for Thomas High School   
+  - After replacing scores for Thomas High School   
    
 ![Thomas After](https://user-images.githubusercontent.com/96347933/150663377-12d0880b-d9f3-4bbb-a2b8-7c77047defc4.PNG)
 
