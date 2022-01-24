@@ -58,9 +58,9 @@ A data scientist with a city school district has assigned the following tasks to
   - Scores by school spending 
     - Slight change in the $630-644 scores by school spending group.  Less than 0.1 percent change in each category.
   - Scores by school size
-    - Slight change in the 1000-2000 medium school size group.  Again less than 0.1 percent change in each category.
+    - Slight change in the 1000-2000 medium school size group.  Again less than 0.1 percent change.
   - Scores by school type
-    - Sligh change in the charter school type category.  Again less than 0.1 percent change in each category.
+    - Sligh change in the charter school type category.  Again less than 0.1 percent change.
 
 ## Summary
 - District Analysis- Slight decrease in math and reading percentages due to change to ninth grade scores at Thomas High School.  This decreased the overall passing rate slightly
